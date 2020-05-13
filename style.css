@@ -72,7 +72,7 @@ header h1 {
 }
 
 .header-main {
-  background: url(/img/header-img-1.png) center no-repeat;
+  background: url(img/header-img-1.png) center no-repeat;
   background-size: cover;
   min-height: 700px;
 }
@@ -293,7 +293,7 @@ li.page-item span.page-link, li.page-item a.page-link {
 }
 
 .building {
-  background: url(/img/building.png) center no-repeat;
+  background: url(img/building.png) center no-repeat;
   background-size: cover;
   min-height: 500px;
   margin-top: 70px;
